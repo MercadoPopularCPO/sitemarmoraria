@@ -41,7 +41,7 @@ const useStyles = makeStyles((theme) => ({
 
 const cards = [
     { title: 'Marmore branco', img: 'https://i.imgur.com/bQ1K8oj.jpg', imageTitle: 'image Title' },
-    { title: 'Pias', img: 'https://source.unsplash.com/random', imageTitle: 'image Title' },
+    { title: 'Cachorro', img: 'https://i.imgur.com/wfymSmb.jpeg', imageTitle: 'image Title' },
     { title: 'Cozinhas', img: 'https://source.unsplash.com/random', imageTitle: 'image Title' },
     { title: 'Túmulos', img: 'https://source.unsplash.com/random', imageTitle: 'image Title' },
     { title: 'Balcões', img: 'https://source.unsplash.com/random', imageTitle: 'image Title' },
